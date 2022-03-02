@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivanshShukla
-- 👀 I’m interested in Machine leaerning, Data analytic
+- 👀 I’m interested in Machine leaerning, Data analytics
 - 🌱 I’m currently learning DSA in python 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me discord shivansh#6923
